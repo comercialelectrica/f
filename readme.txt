@@ -10,13 +10,23 @@ Puesto
 
 <a href=mailto:default@comercialelectrica.mx">default@comercialelectrica.mx</a>
 
-<br>
+<br><br>
 
 Direccion
+Madero 309, Col. Centro, Ags.
+Av. Universidad 228, Col. San Cayetano, Ags.
+Av. Ags. Sur 404, Col. Jardines, Ags.
+Av. López Mateos Pte. 1512, Col. D. E. Sydsa, Ags.
+Blvd. Miguel Hidalgo 923, Col. La Florida, Ags.
 
 <br><b>T.</b>
 
 Telefono
+madero 449 145 2525
+universidad 449 146 8080
+jardines 449 146 9090
+lopez mateos 449 912 1318
+leon 477 251 7798
 
 <br><b>C.</b>
 
